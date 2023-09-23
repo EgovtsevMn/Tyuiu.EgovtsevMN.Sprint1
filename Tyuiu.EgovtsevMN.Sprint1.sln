@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.EgovtsevMN.Sprint1.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.EgovtsevMN.Sprint1.Task2.V0.Test", "Tyuiu.EgovtsevMN.Sprint1.Task2.V0.Test\Tyuiu.EgovtsevMN.Sprint1.Task2.V0.Test.csproj", "{407AB73E-008F-4DB1-AD37-6E6A05A6D9B3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{90B71C8E-CE57-40E6-96EB-914FA16E3F0E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{90B71C8E-CE57-40E6-96EB-914FA16E3F0E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.EgovtsevMN.Sprint1.Task3.V0", "Tyuiu.EgovtsevMN.Sprint1.Task3.V0\Tyuiu.EgovtsevMN.Sprint1.Task3.V0.csproj", "{9E2ACB20-2284-4824-8255-2288EED24ABA}"
 EndProject
